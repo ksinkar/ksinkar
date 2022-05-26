@@ -44,7 +44,6 @@ organization to success within the Scaled Agile Framework (SAFe).
 ###### WeMigrate
 + Migrated >1M records from disparate legacy systems to IdentityKit
 
-### Senior Software Engineer
 #### Globant India Pvt. Ltd. (Pune)
 ##### August 2016 to January 2018
 General responsibilities included working with teams spread across
@@ -66,7 +65,7 @@ computational problems.
 + Implemented realtime audio and chat with WebRTC
 + Background Jobs with Sidekiq
 
-### Software Engineer,
+### Software Engineer
 #### MangoApps India Pvt. Ltd. (Pune)
 ##### August 2013 to February 2015
 General responsibilities included adding features to the main
@@ -153,7 +152,7 @@ Volunteer History
 + Learning controlled agriculture techniques
 + Acclimatizing with the local culture, learning about it
 
-### SAA
+### Sergeant-At-Arms
 #### Toastmasters Club of Pune - East
 ##### Jul 2014 to Jun 2015
 + Tend to club property

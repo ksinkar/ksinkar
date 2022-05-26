@@ -9,7 +9,7 @@
 Ich interessiere mich für föderiertes maschinelles Lernen unter
 Wahrung der Privatsphäre.
 
-I am an [engineer](cv-eng.md) trained in electronics and telecommunication but
+I am an [engineer](cv/eng.md) trained in electronics and telecommunication but
 practicing computational engineering for quite some time now. I
 continue being amazed by the progress we have made thus far and shall
 continue making.
