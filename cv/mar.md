@@ -1,49 +1,49 @@
-Curriculum Vitae of Koustubh Sinkar
+कौस्तुभ सीनकरचे जीवनक्रम
 ===================================
 | [🖇㏌](https://linkedin.com/in/ksinkar) |  [🦊](https://gitlab.com/ksinkar) |  [🐱 🐙](https://github.com/ksinkar) |
 |--|--|--|
 
-Work Experience
+कर्मानुभव
 -----------
-### Senior Software Engineer @ Hexad GmbH मृदुसामग्री अभियांत्रिक 🇩🇪
-#### Since February 2018
+### ज्येष्ठ मृदुसामग्रींचे अभियांत्रिक @ हेक्षाड म.दा.मं (मर्यादित दायित्व असलेली मंडळी) Hexad GmbH 🇩🇪
+#### Since February 2018 फेब्रुवारी २०१८ पासुन
 General responsibilities include working with multi-cultural teams
 while cutting through the bureacracy and red tape of a large
 organization to success within the Scaled Agile Framework (SAFe).
 
-###### WEVDBS
+###### वि वाहन शोध कारकूनी सेवा
 + Incubated an Agile XP team as the Technical Anchor
 + Inculcated TDD practices within the team
 + Mentored junior programmers to take ownership
 + Designed and helped build a greenfield multi-tenant program with
   µ-services architecture
 
-###### GPSAY
+###### साधारण ख़रेदी सेवा - विश्लेषण
 + Setup an ETL workflow using AWS Glue to reduce report generation
   time from more than 8 hours to less than 2 minutes
 + Fully managed Infrastructure as Code using AWS CDK
 
-###### Elsa2Go
+###### एलसाटूगो
 + Replaced a legacy desktop dealer-facing application to a µ-services
   arch(Springboot) and Hybrid/PWA (Ionic) continuously integrated
   using Concourse
 + Consulted and paired with the client team to demonstrate XP
   practices and TDD
 
-###### WEVCF
+###### वि वाहन जोडणी सांगाडा
 + Transition the project from DiLab to CARIAD
 + Reduce the huge load of technical debt
 + Refactor the application to a 12 Factor-App
 
-###### MyStaff
+###### माझेनौकर
 + Migrated µ-services application from Cloudfoundry to Kubernetes
 + Used docker-compose to setup the whole µ-services application on
   programmer workstations
 
-###### WeMigrate
+###### वि स्थलांतर
 + Migrated >1M records from disparate legacy systems to IdentityKit
 
-### Senior Software Engineer @ Globant India Pvt. Ltd. 🇮🇳
+### ज्येष्ठ मृदुसामग्री अभियांत्रिक @ ग्लोबन्ट भारत खाजगी मर्यादित 🇮🇳
 ##### August 2016 to January 2018
 General responsibilities included working with teams spread across
 timezones and communicating with people from different cultural
@@ -52,19 +52,19 @@ technology in the web applications domain was a given and one was
 expected to use better (not necessarily newer) approaches to solving
 computational problems.
 
-###### Sophos
+###### सोफोस
 + Maintain a feed and conference engine with a REST API
 + Refactoring badly written code and decoupling dependencies
 + Wrote a service to consume APIs of APNS and GCM for sending Push
   Notifications
 + Moved background Jobs to Resque
 
-###### ImagineMath
+###### इमाजीनमाथ
 + Designing Data Extraction Strategies with ETL and Star schema
 + Implemented realtime audio and chat with WebRTC
 + Background Jobs with Sidekiq
 
-### Software Engineer @ MangoApps India Pvt. Ltd. 🇮🇳
+### मृदुसामग्रींचे अभियांत्रिक  @ MangoApps India Pvt. Ltd. 🇮🇳
 ##### August 2013 to February 2015
 General responsibilities included adding features to the main
 corporate social networking app, suggesting engineering improvements in
@@ -83,7 +83,7 @@ the products and help improve operations
 + Did a POC called Chatpad on Distributed realtime editing with
   Etherpad and NodeJS
 
-### Lead Developer @ Idyllic Software Pvt. Ltd. 🇮🇳
+### अग्रणी विकासक @ Idyllic Software Pvt. Ltd. 🇮🇳
 ##### August 2012 to July 2013
 General responsibilities included co-ordination with the client to
 decide on a set of deliverable objectives for a project. Led a team of
@@ -99,7 +99,7 @@ client's legacy system to the new one that we were designing.
 + Used PostgreSQL as the database of our choice
 
 
-### Software Engineer @ Intellecap Software Technologies Pvt. Ltd. 🇮🇳
+### मृदुसामग्रींचे अभियांत्रिक  @ Intellecap Software Technologies Pvt. Ltd. 🇮🇳
 ##### March 2011 to July 2012
 General responsibilities included developing and maintaining Mostfit
 (a web application written in Ruby on Merb). Understood the domain
@@ -122,7 +122,7 @@ customer support executives.
 + Implemented cross verification of ledger entries across multiple
   Charts of Accounts
 
-#### Embedded Systems Engineer @ Megavision Technologies Pvt. Ltd. 🇮🇳
+#### गडलेल्या प्रणालींचे अभियांत्रिक @ Megavision Technologies Pvt. Ltd. 🇮🇳
 ###### July 2010 to March 2011
 + Developed a proximity based security system using the nRF24LU1+ from
   scratch
@@ -145,24 +145,24 @@ Volunteer History
 + Learning controlled agriculture techniques
 + Acclimatizing with the local culture, learning about it
 
-### Sergeant-At-Arms @ Toastmasters Club of Pune - East  🇮🇳
+### Sergeant-At-Arms @ Toastmasters Club of Pune - East 🇮🇳
 ##### Jul 2014 to Jun 2015
 + Tend to club property
 + Co-ordinate meetings
 
-### President @ Toastmasters Club of Pune - East  🇮🇳
+### President @ Toastmasters Club of Pune - East 🇮🇳
 ##### Jan 2014 to Jun 2014
 + Preside over all the meetings of the club
 + Lead the club to financial viability
 + Chief Executive Officer of the Club
 
-### Vice President - Public Relations @ Toastmasters Club of Pune  🇮🇳
+### Vice President - Public Relations @ Toastmasters Club of Pune 🇮🇳
 ###### Dec 2013 to  Jul 2013
 + Promote the club to the local community
 + Responsible for the club's web presence
 + Increase the footfalls to events and club meetings
 
-### Yatri @ Jagriti Yatra  🇮🇳
+### यात्री @ जागृती यात्रा 🇮🇳
 ##### Dec 2011 to Jan 2012
 + Was part of a train journey, that travels throughout India
   exploring, studying and getting inspired by the solutions that are
@@ -170,8 +170,8 @@ Volunteer History
 + Post Yatra, helped organize a clothes collection drive for Goonj,
   for two consecutive years
 
-Education
+शिक्षण
 ---------
-### Bachelor of Electronics and Tele-communication Engineering
-#### University of Mumbai (Thadomal Shahani Engg. College)  🇮🇳
+### विद्युताण्विक व दूरसंचार अभियांत्रिकीचे ब्रह्मचारी
+#### मुम्बई विद्यापीठ  (थडोमल शहानी अभियांत्रिकी विद्यालय)  🇮🇳
 ##### June 2006 to May 2010
