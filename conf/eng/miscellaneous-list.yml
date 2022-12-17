@@ -1,3 +1,20 @@
 ---
 miscellaneous-list:
-- miscellaneous:
+- miscellaneous: # hobby
+    description: 👥 Observing people and analysing their behaviours
+    uri: null
+- miscellaneous: # hobby
+    description: 📖 Reading stories with complicated plots (fiction as well as non-fiction) # hobby
+    uri: https://www.goodreads.com/ksinkar
+- miscellaneous: # hobby
+    description: ♟️ Playing Chess
+    uri: https://lichess.org/@/ksinkar
+- miscellaneous: # hobby
+    description: 🎶 Listening to Classical Music
+    uri: null
+- miscellaneous: # hobby
+    description:  📺 Watching Documentary Movies
+    uri: https://www.imdb.com/user/ur24238840/
+- miscellaneous: # hobby
+    description: ✍️ Writing
+    uri: https://ksinkar.blogspot.com/
