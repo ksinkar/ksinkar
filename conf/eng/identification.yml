@@ -1,0 +1,11 @@
+---
+identification:
+  first-name: Koustubh
+  surname: Sinkar
+  contact-info:
+    address:
+      municipality: Berlin
+      country:
+        code: DEU
+        label: 🇩🇪
+    web-page: https://www.ksinkar.in

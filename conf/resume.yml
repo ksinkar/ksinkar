@@ -1,0 +1,8 @@
+---
+include: identification.yml
+include: occupation.yml
+include: work-experience-list.yml
+include: education-list.yml
+include: language-list.yml
+include: skill-list.yml
+include: miscellaneous-list.yml

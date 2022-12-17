@@ -1,0 +1,319 @@
+---
+work-experience-list:
+- work-experience:
+    position: Senior Software Engineer
+    activities:
+      General responsibilities include working with multi-cultural
+      teams while cutting through the bureacracy and red tape of a
+      large organization to success within the Scaled Agile
+      Framework (SAFe).
+    employer:
+      name: Hexad GmbH
+      address:
+        uri: https://hexad.de
+        country:
+          code: DEU
+          label: 🇩🇪
+    period:
+      from: 20180702
+      to: now
+    projects:
+      - name: GPSAY
+        location: Berlin
+        description:
+          - Setup an ETL workflow using AWS Glue to reduce report generation time from more than 8 hours to less than 2 minutes
+          - Fully managed Infrastructure as Code using AWS CDK
+        tools:
+          - Apache Spark
+          - AWS CDK
+          - AWS EKS
+          - AWS Glue
+          - AWS Lambda
+          - Python
+          - TDD
+      - name: WeVCF
+        location: Berlin
+        description:
+          - Transition the project from DiLab to CARIAD
+          - Reduce the huge load of technical debt
+          - Refactor the application to a 12 Factor-App
+        tools:
+          - GoLang
+          - Kotlin
+          - Springboot
+          - Concourse
+          - Cloudfoundry
+          - gitcrypt
+          - pact
+          - newman
+          - ISO-22901-1
+      - name: WeVDBS
+        location: Berlin
+        description:
+          - Incubated an Agile XP team as the Technical Anchor
+          - Inculcated TDD practices within the team
+          - Mentored junior programmers to take ownership
+          - Designed and helped build a greenfield multi-tenant program with µ-services architecture
+        tools:
+          - Concourse
+          - Kotlin
+          - Springboot
+          - Chai.js
+          - newman
+          - Cloudfoundry
+          - gitcrypt
+          - ChaosToolkit
+      - name: WeMigrate
+        location: Wolfsburg
+        description:
+          - Migrated >1M records from disparate legacy systems to IdentityKit
+        tools:
+          - Kotlin
+          - Springboot
+          - Concourse
+          - Cloudfoundry
+          - gitcrypt
+      - name: MyStaff
+        location: Wolfsburg
+        description:
+          - Migrated µ-services application from Cloudfoundry to Kubernetes
+          - Used docker-compose to setup the whole µ-services application on programmer workstations
+        tools:
+          - Kubernetes
+          - Kotlin
+          - Golang
+          - Elixir
+          - Docker Compose
+          - Cloudfoundry
+      - name: Elsa2Go
+        location: Wolfsburg
+        description:
+          - Consulted and paired with the client team to demonstrate XP practices and TDD
+          - Replaced a legacy desktop dealer-facing application to a µ-services architecture
+          - Created native Android and iOS applications from a single codebase using Ionic
+          - CI/CD for deployment of µ-services
+          - CI/CD for deployment of Android and iOS applications
+        tools:
+          - Springboot
+          - Java
+          - Kotlin
+          - Kubernetes
+          - Bash
+          - Ionic
+          - Angular
+          - Concourse
+          - Agile
+          - eXtreme Programming
+          - Pair programming
+          - TDD
+- work-experience:
+    position: Senior Software Engineer
+    activities:
+      General responsibilities included working with teams spread
+      across timezones and communicating with people from different
+      cultural contexts to get the job done. Keeping up with the
+      cutting edge of technology in the web applications domain was
+      a given and one was expected to use better (not necessarily
+      newer) approaches to solving computational problems.
+    employer: Globant India Pvt. Ltd.
+    address:
+      uri: https://www.globant.com/
+      country:
+        code: IND
+        label: 🇮🇳
+    period:
+      from: 201608
+      to: 20180131
+    projects:
+      - name: ImagineMath
+        location: Pune
+        description:
+          - Designing Data Extraction Strategies with ETL and Star schema
+          - Implemented realtime audio and chat with WebRTC
+          - Background Jobs with Sidekiq
+        tools:
+          - Ruby
+          - Ruby on Rails
+          - Sidekiq
+          - WebRTC
+          - ETL
+      - name: Sophos
+        location: Pune
+        description:
+          - Maintain a feed and conference engine with a REST API
+          - Refactoring badly written code and decoupling dependencies
+          - Wrote a service to consume APIs of APNS and GCM for sending Push Notifications
+          - Moved background Jobs to Resque
+        tools:
+          - Ruby
+          - Ruby on Rails
+          - APNS
+          - GCM
+          - Redis
+          - Resque
+-   work-experience:
+    position: Software Engineer
+    activities: General responsibilities included adding features
+      to the main corporate social networking app, suggesting
+      engineering improvements in the products and help improve
+      operations
+    employer:
+      name:  MangoApps India Pvt. Ltd.
+      address:
+        uri: https://mangoapps.com
+        country:
+          code: IND
+          label: 🇮🇳
+    period:
+      from: 201308
+      to: 201502
+    projects:
+      - name: MangoApps Backend
+        location: Pune
+        description:
+          - Implementation of SAML authentication
+          - Upgraded the login from OAuth to OAuth2 for the Google Apps marketplace
+          - Browser Security Review of MangoApps, which discovered CSRF and XSS vulnerabilities
+          - Migrated background jobs from DelayedJobs to Resque and Resque-Scheduler
+        tools:
+          - Ruby
+          - Ruby on Rails
+          - DelayedJobs
+          - Redis
+          - Resque
+          - SAML
+          - OAuth2
+          - Brakeman
+      - name: OfficeChat
+        location: Pune
+        description:
+          - Did a POC called Chatpad on Distributed realtime editing
+        tools:
+          - Etherpad
+          - NodeJS
+- work-experience:
+    position: Lead Developer
+    activities:
+      General responsibilities included co-ordination with the
+      client to decide on a set of deliverable objectives for a
+      project. Led a team of developers, designers and testers to
+      achieve those goals. Set in place a project-specific process
+      that helped in maintaining a minimum consistency in the
+      quality of the delivered product.
+    employer:
+      name: Idyllic Software Pvt. Ltd.
+      address:
+        uri: https://idyllic.co
+        country:
+          code: IND
+          label: 🇮🇳
+    period:
+      from: 201208
+      to: 201307
+    projects:
+      - name: Opbuilder
+        location: Pune
+        description:
+          - Build a project from scratch in an agile fashion
+          - Migrate data from the legacy system to the new one that we were designing.
+          - Used Heroku for rapid deployment
+          - Used TDD from the beginning of the project
+          - Used Apache Solr for Indexing
+          - Used PostgreSQL as the database of our choice
+        tools:
+          - Heroku
+          - Ruby
+          - Ruby on Rails
+          - TDD
+          - Apache Solr
+          - PostgreSQL
+- work-experience:
+    position: Software Engineer
+    activities:
+      General responsibilities included developing and maintaining
+      Mostfit (a web application written in Ruby on Merb).
+      Understood the domain environment intricately about
+      Microfinance as an industry. Responding to client questions
+      about software and helping them use it correctly was also
+      part of the job as this was a startup we did not have any
+      customer support executives.
+    employer:
+      name: Intellecap Advisory Services Pvt. Ltd.
+      address:
+        uri: https://intellecap.com
+        country:
+          code: IND
+          label: 🇮🇳
+    period:
+      from: 201103
+      to:   201207
+    projects:
+      - name: Mostfit
+        location: Mumbai
+        description:
+          - Generated various financial reports using SQL and non-SQL data extraction techniques
+          - Designing Loans Products and integrating them into Mostfit
+          - Integrated the data exchange functionality for Mostfit with the Highmark Credit Bureau
+        tools:
+          - Merb
+          - haml
+          - Ruby
+          - MySQL
+      - name: Molly
+        location: Pune
+        description:
+          - This was a greenfield project which I helped created from scratch
+          - Understood Double Entry Accounting practices and implemented it in the software
+          - Implemented cross verification of ledger entries across multiple Charts of Accounts
+        tools:
+          - Merb
+          - haml
+          - Ruby
+          - MySQL
+- work-experience:
+    position: Embedded Systems Engineer
+    activities:
+      Responsible for electric circuits for Printed Circuit Boards
+      and their corresponding firmware
+    employer:
+      name: Megavision Technologies Pvt. Ltd
+      country:
+        code: IND
+        label: 🇮🇳
+    period:
+      from: 201007
+      to: 201102
+    projects:
+      - name: Wireless Key
+        location: Mumbai
+        description:
+          - Developed a proximity based security system using the nRF24LU1+ from scratch
+          - Implemented the firmware using Embedded C and Keil
+          - Co-designed the hardware using Protel
+        tools:
+          - Keil GCC
+          - Embedded C
+          - yacc
+          - NRF24LU1+
+      - name:
+        location: Mumbai
+        description:
+          - Worked on the SPI communication between an ARM7 processor (LPC2148) to store data onto a μSDcard
+        tools:
+          - Keil GCC
+          - Embedded C
+          - LPC2148
+          - ARM7
+          - SPI protocol
+- work-experience:
+    position: Website Creator Intern
+    activities: Summer Placement through IEEE-TSEC Computer Society
+    employer:
+      name: Ambika Paints Pvt. Ltd.
+      address:
+        country:
+          code: IND
+          label: 🇮🇳
+    period:
+      from: 200707
+      to: 200708

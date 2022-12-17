@@ -1,0 +1,95 @@
+---
+volunteering-list:
+- volunteer-experience:
+    position: KPC Volunteer
+    organization:
+      name: Rosen Herbs, Israel
+      address:
+        uri: https://kibbutzvolunteers.org.il/
+    period:
+      from: 201507
+      to: 201603
+    activities:
+      - Maintaining a Greenhouse
+      - Learning controlled agriculture techniques
+      - Acclimatizing with the local culture, learning about it
+- volunteer-experience:
+    position: Sergeant-At-Arms
+    organization:
+      name: Toastmasters Clube of Pune-East
+    period:
+      from: 201407
+      to: 201506
+    activities:
+      - Tend to club property
+      - Co-ordinate meetings
+- volunteer-experience:
+    position: President
+    organization:
+      name: Toastmasters Clube of Pune-East
+    period:
+      from: 201401
+      to: 201406
+    activities:
+      - Preside over all the meetings of the club
+      - Lead the club to financial viability
+      - Chief Executive Officer of the Club
+- volunteer-experience:
+    position: Vice President (Public Relations)
+    organization:
+      name: Toastmasters Club of Pune
+      address:
+        uri: https://www.toastmasters.org/Find-a-Club/01141787-toastmastersclubofpune
+    period:
+      from: 201312
+      to: 201307
+    activities:
+      - Promote the club to the local community
+      - Responsible for the club's web presence
+      - Increase the footfalls to events and club meetings
+- volunteer-experience:
+    position: Pilgrim
+    organization:
+      name: Jagriti Yatra
+      address:
+        uri: https://www.jagritiyatra.com/
+    period:
+      from: 201112
+      to: 201201
+    activities:
+      - Was part of a train journey, that travels throughout India exploring, studying and getting inspired by the solutions that are being created for India, by Indians
+      - Post Yatra, helped organize a clothes collection drive for Goonj, for two consecutive years
+- volunteer-experience:
+    position: Conductor of a Linux Workshop
+    organization:
+      name: IEEE-TSEC
+    period:
+      from: 20090910
+      to: 20090911
+    activities:
+      - Conducted a hands on workshop to introduce undergraduate students to Linux.
+      - Explained basic Unix kernel and shell fundamentals while stressing on the need for automating your work instead of using point-and-click.
+- volunteer-experience:
+    position: Helper
+    organization:
+      name: TSEC-DoEaT
+    period:
+      from: 200906
+      to: 200907
+    activities:
+      - Was part of the team that conducted a short term course on robotics
+      - Helped conduct workshops on
+         - Image Processing
+         - Micro-controller based motor control
+         - Interfacing of digital circuits to control A/C power supply
+- volunteer-experience:
+    position: Conductor of Basic Robotics Workshop
+    organization:
+      name: IEEE-TSEC
+    period:
+      from: 200802
+      to: 200802
+    activities:
+      - Taught a group of second and third year students how to assemble a basic electric robot with DC motors and powersupply
+      - Helped understand differential steering by implementing vehicle steering by controlling DC direction with two-way switches.
+      - Gave further ideas to explore the field of robotics by building on the car.

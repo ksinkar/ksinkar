@@ -1,0 +1,101 @@
+---
+language-list:
+- language:
+    code: mar
+    label: Marathi
+    level:
+      listening: c1
+      reading: c2
+      spoken-interaction: c2
+      spoken-production: c2
+      writing: c1
+- language:
+    code: guj
+    label: Gujarati
+    level:
+      listening: c1
+      reading: c2
+      spoken-interaction: c2
+      spoken-production: c2
+      writing: c1
+- language:
+    code: pan
+    label: Punjabi
+    level:
+      listening: a1
+      reading: a1
+      spoken-interaction: a1
+      spoken-production: a1
+      writing: a1
+- language:
+    code: san
+    label: Sanskrit
+    level:
+      listening: c1
+      reading: c2
+      spoken-interaction: c2
+      spoken-production: c2
+      writing: c1
+- language:
+    code: deu
+    label: German
+    level:
+      listening: a1
+      reading: b2
+      spoken-interaction: a2
+      spoken-production: a1
+      writing: b1
+- language:
+    code: eng
+    label: English
+    level:
+      listening: c1
+      reading: c2
+      spoken-interaction: c2
+      spoken-production: c2
+      writing: c2
+- language:
+    code: esp
+    label: Spanish
+    level:
+      listening: a1
+      reading: a2
+      spoken-interaction: a1
+      spoken-production: a1
+      writing: a1
+- language:
+    code: hin
+    label: Hindi
+    level:
+      listening: c1
+      reading: c2
+      spoken-interaction: c2
+      spoken-production: c2
+      writing: c1
+- language:
+    code: urd
+    label: Urdu
+    level:
+      listening: c1
+      reading: null
+      spoken-interaction: c1
+      spoken-production: c1
+      writing: null
+- language:
+    code: ara
+    label: Arabic
+    level:
+      listening: a1
+      reading: a1
+      spoken-interaction: a1
+      spoken-production: a1
+      writing: a1
+- language:
+    code: heb
+    label: Hebrew
+    level:
+      listening: a1
+      reading: a1
+      spoken-interaction: a1
+      spoken-production: a1
+      writing: a1

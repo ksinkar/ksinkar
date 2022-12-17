@@ -1,0 +1,59 @@
+---
+education-list:
+- education:
+    period:
+      from: 2006
+      to: 2010
+    title: Bachelor of Engineering (Electronics and Tele-communication)
+    organization:
+      name: Mumbai University
+      address:
+        municipality: Mumbai
+        country:
+          code: IND
+          label: 🇮🇳
+      type: University
+    level:
+      code: 5A
+      label: Bachelor of Engineering
+    educational-field:
+      code: 52
+      label: Engineering and engineering trades
+- education:
+    period:
+      from: 2004
+      to: 2006
+    title: Higher Secondary Certificate
+    organization:
+      name: Marathwada Mitramandal Junior College of Science and Commerce
+      address:
+        municipality: Pune
+        country:
+          code: IND
+          label: 🇮🇳
+      type: Junior College
+    level:
+      code: 3
+      label: Higher Secondar Certificate
+    educational-field:
+      code: 48
+      label: Computer Science Vocational
+- education:
+    period:
+      from: 2004
+      to: 1995
+    title: Secondary School Certificate
+    organization:
+      name: Fatima Convent High School
+      address:
+        municipality: Bhavnagar
+        country:
+          code: IND
+          label: 🇮🇳
+      type: Secondary School
+    level:
+      code: 2
+      label: Secondary School Certificate
+    educational-field:
+      code: 08
+      label: Basic Programs

@@ -1,0 +1,56 @@
+---
+skill-list:
+- skill: planning # organisational
+- skill: analysis # organizational
+- skill: foresight # organizational
+- skill: creativity # organizational
+- skill: composure # organizational
+- skill: deal-maker # organizational
+- skill: detail-oriented # organizational
+- skill: smart-solving # organizational
+- skill: AVR ATmega8535 # telecommunication
+- skill: AVR ATmega16L # telecommunication
+- skill: 8x51 # telecommunication
+- skill: nRF24LU1+ # telecommunication
+- skill: ARM LCP2468 # telecommunication
+- skill: ARM OMAPL138 # telecommunication
+- structured-skill: # xsi:type="europass:DrivingType
+    driving-license: b2
+- structured-skill:
+    concourse: b1
+- structured-skill:
+    kubernetes: b1
+- structured-skill:
+    node-js: b1
+- structured-skill:
+    apache-zepellin: a2
+- structured-skill:
+    java: b1
+- structured-skill:
+    python: b1
+- structured-skill:
+    springboot: b1
+- structured-skill:
+    ruby-on-rails: b2
+- structured-skill:
+    ruby: b2
+- structured-skill:
+    golang: a2
+- structured-skill:
+    c: b1
+- structured-skill:
+    cpp: b1
+- structured-skill:
+    visual-basic: b1
+- structured-skill:
+    pascal: b1
+- structured-skill:
+    gnu-linux: b2
+- structured-skill:
+    html5: b1
+- structured-skill:
+    css3: a2
+- structured-skill:
+    ecmascript: b1
+- structured-skill:
+    bash: c1
