@@ -19,6 +19,71 @@ education-list:
     educational-field:
       code: 52
       label: Engineering and engineering trades
+    grade:
+    - semester: 1
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 56.50
+    - semester: 2
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 53.43
+    - semester: 3
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 56.00
+    - semester: 4
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 52.94
+    - semester: 5
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 47.61
+    - semester: 6
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 54.59
+    - semester: 7
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 50.00
+    - semester: 8
+      score:
+        min: 0
+        pass: 40
+        first_class: 60
+        distinction: 75
+        max: 100
+        achievement: 57.33
 - education:
     period:
       from: 2004
@@ -34,7 +99,7 @@ education-list:
       type: Junior College
     level:
       code: 3
-      label: Higher Secondar Certificate
+      label: Higher Second ar Certificate
     educational-field:
       code: 48
       label: Computer Science Vocational
