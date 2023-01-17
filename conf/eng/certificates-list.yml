@@ -1,11 +1,12 @@
 ---
 certificates-list:
 - certificate:
-    name: Ethical Hacker
-    issuer: EC Council
+    name: Certified Ethical Hacker (CEH)
+    issuer: EC-Council
+    number: ECC40458027553
     validity:
-      from: 2017
-      to: 2021
+      from: 20180130
+      to: 20210129
 - certificate:
     name: Short Term Training Programme on Embedded Systems
     issuer: Department of Electrical Engg, Sardar Patel Institute of Technology
