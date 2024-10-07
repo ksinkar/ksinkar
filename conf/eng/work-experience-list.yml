@@ -78,10 +78,12 @@ work-experience-list:
       - name: GPSAY
         location: Berlin
         description:
-          - Setup an ETL workflow using AWS Glue to reduce report generation time from more than 8 hours to less than 2 minutes
-          - Fully managed Infrastructure as Code using AWS CDK
+          - Setup an ETL workflow to reduce report generation time from more than 8 hours to less than 2 minutes
+          - Fully managed Infrastructure as Code for the setting up the whole ETL workflow and its products
+          - Setup a SQL like query interface for querying the ETL products
         tools:
           - Apache Spark
+          - AWS Athena
           - AWS CDK
           - AWS EKS
           - AWS Glue
